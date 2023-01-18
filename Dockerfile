@@ -1,4 +1,4 @@
-FROM python:3.10.9-bullseye
+FROM anibali/pytorch:cuda-10.0
 
 WORKDIR /usr/src/app
 
